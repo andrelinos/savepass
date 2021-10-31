@@ -58,14 +58,15 @@ $ code .
 ## 🔥 Como executar o projeto em seu celular usando o expo
 1. Estando dentro da pasta pelo terminal, execute o comando abaixo:
 ```bash
-# Este comando disponibilizar o projeto para ser aberto pelo aplicativo expo que você precisa de instalar em seu dispositivo físico ou no emulador. 
+# Este comando disponibilizar o projeto para ser aberto pelo aplicativo expo que 
+# você precisa de instalar em seu dispositivo físico ou no emulador. 
 $ expo start
 ```
 2. Em seguida, como o aplicativo **Expo Go** instalado em seu smartphone, basta ler o QRCode que aparece na tela do computador. 
    
 <br>
 
-> Nota: Seu celular e o computador devem estar na mesma rede e na mesma faixa de IP para que funcione o aplicativo entre seu computador e seu celular. 
+> **Nota**: Seu celular e o computador devem estar na mesma rede e na mesma faixa de IP para que funcione o aplicativo entre seu computador e seu celular. 
 
 
 
@@ -74,4 +75,4 @@ $ expo start
 
 
 ---
-Made with 💜 by Andrelino Silva
+Made with 💜 by [Andrelino Silva](https://github.com/andrelinos/)
