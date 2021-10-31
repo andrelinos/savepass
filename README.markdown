@@ -69,10 +69,8 @@ $ expo start
 > **Nota**: Seu celular e o computador devem estar na mesma rede e na mesma faixa de IP para que funcione o aplicativo entre seu computador e seu celular. 
 
 
-
-
-
-
+## 📄 Licença
+Este projeto está sob a licença MIT. Consulte a licença [LICENSE](LICENSE) para mais informações.
 
 ---
 Made with 💜 by [Andrelino Silva](https://github.com/andrelinos/)
