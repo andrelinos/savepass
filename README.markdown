@@ -50,7 +50,7 @@ $ cd savepass
 # Para baixar as dependências do projeto
 $ yarn
 
-# Abra como editor vscode
+# Abra com o editor vscode
 $ code .
 ```
 4. Pronto, agora basta testar e fazer as alterações que desejar.
